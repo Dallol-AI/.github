@@ -1,6 +1,6 @@
 # Welcome to Dallol AI 👋
 
-![Dallol AI Logo](url_to_your_logo)
+![Dallol AI Logo](https://avatars.githubusercontent.com/u/154377117?s=200&v=4)
 
 ## About Us
 
