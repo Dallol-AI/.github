@@ -1,6 +1,6 @@
 # Welcome to Dallol AI
 
-![Dallol AI Logo](images/logo.png)
+![Dallol AI Logo](https://avatars.githubusercontent.com/u/154377117?s=200&v=4)
 
 At Dallol AI, we're harnessing the power of artificial intelligence to revolutionize customer service interactions. We're based in Addis Ababa, Ethiopia and our mission is to empower businesses with AI-driven chatbots that enhance customer experiences.
 
