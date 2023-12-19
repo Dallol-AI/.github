@@ -20,7 +20,7 @@ We specialize in developing cutting-edge Natural Language Processing (NLP) solut
 
 ## 🌐 Key Focus Areas
 
-- **NLP Excellence:** We excel in Natural Language Processing, ensuring our chatbots understand and respond with unmatched precision.
+- **Chatbot Precision**: Pioneering in Natural Language Processing for chatbots with unrivaled accuracy.
 - **Multilingual Support:** Bridging language gaps, our solutions provide support in various languages, reflecting our commitment to global accessibility.
 - **Innovation Hub:** Dallol AI is not just a company; it's an innovation hub where local expertise meets global standards.
 
